@@ -1,8 +1,8 @@
 <?php
-$host = 'host.docker.internal'; // Change 'localhost' to this
-$user = 'root';
-$password = '';
-$database = 'it_app';
+$host = 'sql211.infinityfree.com'; // Change 'localhost' to this
+$user = 'if0_38415429';
+$password = 'kZUA1Dkr0dt';
+$database = 'if0_38415429_db';
 
 // Create connection
 $conn = new mysqli($host, $user, $password, $database);
