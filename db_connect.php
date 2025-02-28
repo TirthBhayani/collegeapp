@@ -1,8 +1,8 @@
 <?php
-$host = 'sql211.infinityfree.com'; // Change 'localhost' to this
-$user = 'if0_38415429';
-$password = 'kZUA1Dkr0dt';
-$database = 'if0_38415429_db';
+$host = 'sql12.freesqldatabase.com'; // Change 'localhost' to this
+$user = 'sql12765247';
+$password = 'Z2RUZPhaTr';
+$database = 'sql12765247';
 
 // Create connection
 $conn = new mysqli($host, $user, $password, $database);
